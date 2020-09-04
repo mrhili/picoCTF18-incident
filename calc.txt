@@ -1,0 +1,16 @@
+1
+2
+6
+
+
+----
+
+1
+1
+6
+
+
+all unique ip dest by hash / all unique hash
+9/8
+
+roun(9/8)
